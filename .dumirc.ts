@@ -25,7 +25,7 @@ export default defineConfig({
   },
   favicons: favicon,
   analytics: {
-    ga_v2: 'G-7XLKHE56WW',
+    ga_v2: 'G-8CQ48CHC63',
   },
   metas,
   locales: [
