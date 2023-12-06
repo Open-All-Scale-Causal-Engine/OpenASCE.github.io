@@ -34,7 +34,7 @@ export default {
   // GITHUB URL
   GITHUB_URL: 'https://github.com/Open-All-Scale-Causal-Engine/OpenASCE',
   // 帮助文档链接
-  HELP_URL: '',
+  HELP_URL: 'https://openasce.readthedocs.io/en/latest/',
   // 帮助文档
   HELP_DOCUMENT: { zh: '帮助文档', en: 'Document' },
   // 公告信息
