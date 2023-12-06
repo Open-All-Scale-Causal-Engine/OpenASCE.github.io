@@ -6,11 +6,11 @@ export const BaseConfig = {
   metas: [
     {
       name: 'keywords',
-      content: 'ACE, All-scale Causal Engine, 大规模因果学习系统',
+      content: 'ASCE, All-Scale Causal Engine, 大规模因果学习系统',
     },
     {
       name: 'description',
-      content: 'ACE(All-scale Causal Engine)大规模因果学习系统',
+      content: 'ASCE(All-Scale Causal Engine)大规模因果学习系统',
     },
   ],
   footer: '© 版权所有 2022 Ant Group Co., Ltd. 京ICP备15032932号-38',
@@ -18,16 +18,16 @@ export const BaseConfig = {
 
 export default {
   // 标识
-  PRIMARY_KEY: 'ACE',
+  PRIMARY_KEY: 'ASCE',
   // 标题
   PRIMARY_TITLE: {
     zh: '大规模因果学习系统',
-    en: 'All-scale Causal Engine',
+    en: 'All-Scale Causal Engine',
   },
   // 描述
   PRIMARY_DESCRIPTION: {
-    zh: 'All-scale Causal Engine',
-    en: 'All-scale Causal Engine',
+    zh: 'All-Scale Causal Engine',
+    en: 'All-Scale Causal Engine',
   },
   // GITHUB
   GITHUB: 'GitHub',
@@ -344,9 +344,9 @@ export default {
     },
   ],
   OR_CODE_CONFIG_TITLE: {
-    zh: '暂无群二维码',
-    en: 'Coming soon',
+    zh: ' ',
+    en: ' ',
   },
   OR_CODE_CONFIG_URL:
-    'https://mdn.alipayobjects.com/huamei_xgb3qj/afts/img/A*9BZfR6NtkjYAAAAAAAAAAAAADtmcAQ/original',
+    'https://mdn.alipayobjects.com/huamei_xgb3qj/afts/img/A*JdGTRLUbhvkAAAAAAAAAAAAADtmcAQ/original',
 };

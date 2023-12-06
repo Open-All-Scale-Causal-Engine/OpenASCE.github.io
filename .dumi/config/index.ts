@@ -1,3 +1,3 @@
-import ACE from './ACE';
+import ASCE from './ASCE';
 
-export const getLocalConfig = () => ACE
+export const getLocalConfig = () => ASCE
