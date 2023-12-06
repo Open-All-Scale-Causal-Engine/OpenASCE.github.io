@@ -1,5 +1,5 @@
 export const BaseConfig = {
-  logo: 'https://mdn.alipayobjects.com/huamei_xgb3qj/afts/img/A*cu5IRZmkUAMAAAAAAAAAAAAADtmcAQ/original',
+  logo: 'https://mdn.alipayobjects.com/huamei_xgb3qj/afts/img/A*5HTtTbRPWk4AAAAAAAAAAAAADtmcAQ/original',
   favicon: [
     'https://mdn.alipayobjects.com/huamei_xgb3qj/afts/img/A*JiTDRaNWTQkAAAAAAAAAAAAADtmcAQ/original',
   ],
